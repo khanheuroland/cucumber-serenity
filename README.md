@@ -69,7 +69,7 @@ And we can use anna variable on each step like
 
 ```
 
-## 3. Conclution 
+## 3. Conclusion 
 
 Hope that my example can help you more clear about Serenity Screenplay as well as combine Cucumber with Serenity to take the advantages of these library. 
 
