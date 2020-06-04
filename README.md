@@ -74,5 +74,3 @@ And we can use anna variable on each step like
 Hope that my example can help you more clear about Serenity Screenplay as well as combine Cucumber with Serenity to take the advantages of these library. 
 
 If you have any question can send it to me via email is **khanh.tx@live.com** or refer to some courses ad Testmaster center where I am teaching [http://www.testmaster.vn/]
-
-                seeThat(WebPageTitle.get(), is("Admin - Testmaster.vn"))
